@@ -38,7 +38,7 @@ A digital card game with unique rules, ensuring fair play and strategic decision
 
 GitHub: @aharshman
 
-LinkedIn: [https://www.linkedin.com/in/alexander-harshman-601616267/]
+LinkedIn: https://www.linkedin.com/in/alexander-harshman-601616267/
 
 Email: alexanderharshman@gmail.com
 
